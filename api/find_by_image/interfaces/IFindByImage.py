@@ -1,0 +1,4 @@
+
+
+class IFindByImage:
+    pass
